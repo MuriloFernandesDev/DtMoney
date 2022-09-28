@@ -1,5 +1,4 @@
 import { Container } from "./styles";
-import React, { useContext } from "react";
 import IncomeImg from "../../assets/income.svg";
 import outcomeImg from "../../assets/outcome.svg";
 import totalImg from "../../assets/total.svg";
